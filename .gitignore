@@ -42,4 +42,5 @@ htmlcov/
 # Task data
 *.db
 data/*.json
+data/*.log
 !data/.gitkeep
